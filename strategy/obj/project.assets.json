@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sumit\\Git\\design-patterns\\design.patterns.sln\\strategy\\strategy.csproj",
+      "projectUniqueName": "C:\\Sumit\\Git\\design-patterns\\strategy\\strategy.csproj",
       "projectName": "strategy",
-      "projectPath": "C:\\Sumit\\Git\\design-patterns\\design.patterns.sln\\strategy\\strategy.csproj",
+      "projectPath": "C:\\Sumit\\Git\\design-patterns\\strategy\\strategy.csproj",
       "packagesPath": "C:\\Users\\703201313\\.nuget\\packages\\",
-      "outputPath": "C:\\Sumit\\Git\\design-patterns\\design.patterns.sln\\strategy\\obj\\",
+      "outputPath": "C:\\Sumit\\Git\\design-patterns\\strategy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\703201313\\AppData\\Roaming\\NuGet\\NuGet.Config",
