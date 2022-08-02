@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sumit\\Git\\design-patterns\\strategy\\strategy.csproj",
-      "projectName": "strategy",
-      "projectPath": "C:\\Sumit\\Git\\design-patterns\\strategy\\strategy.csproj",
+      "projectUniqueName": "C:\\Sumit\\Git\\design-patterns\\strategy\\DesignPatterns.Strategy.csproj",
+      "projectName": "DesignPatterns.DesignPatterns.Strategy",
+      "projectPath": "C:\\Sumit\\Git\\design-patterns\\strategy\\DesignPatterns.Strategy.csproj",
       "packagesPath": "C:\\Users\\703201313\\.nuget\\packages\\",
       "outputPath": "C:\\Sumit\\Git\\design-patterns\\strategy\\obj\\",
       "projectStyle": "PackageReference",

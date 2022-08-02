@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+    <script>
+         $(document).ready(function() {
+
+            $("#driver").click(function(event){
+                $.getJSON('patterns.json', function (patterns) {
+                    for (var pattern in patterns) {
+                        $('#stage').html('<p> Name: ' + pattern.name + '</p>');
+                        $('#stage').append('<p>intent : ' + pattern.intent + '</p>');                       
+                    }
+                 
+               });
+            });
+
+         });
+    </script>
+</head>
+<body>
+    <p>Click on the button to load result.html file:</p>
+
+    <div id="stage" style="background-color:#cc0;">
+        STAGE
+    </div>
+
+    <input type="button" id="driver" value="Load Data" />
+</body>
+</html>

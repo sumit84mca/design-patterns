@@ -3,7 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strategy", "strategy\strategy.csproj", "{8CB418B0-BB08-4B7A-B768-C29FCF1E959B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Strategy", "strategy\DesignPatterns.Strategy.csproj", "{8CB418B0-BB08-4B7A-B768-C29FCF1E959B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9CBEBDAD-D724-4987-AFC4-42EC0D2BA133}"
+	ProjectSection(SolutionItems) = preProject
+		design-patterns.html = design-patterns.html
+		patterns.json = patterns.json
+		patterns.yaml = patterns.yaml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Command", "DesignPatterns.Command\DesignPatterns.Command.csproj", "{E7105765-62A3-495A-9B0B-B9406177FCA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +24,10 @@ Global
 		{8CB418B0-BB08-4B7A-B768-C29FCF1E959B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CB418B0-BB08-4B7A-B768-C29FCF1E959B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CB418B0-BB08-4B7A-B768-C29FCF1E959B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7105765-62A3-495A-9B0B-B9406177FCA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7105765-62A3-495A-9B0B-B9406177FCA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7105765-62A3-495A-9B0B-B9406177FCA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7105765-62A3-495A-9B0B-B9406177FCA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

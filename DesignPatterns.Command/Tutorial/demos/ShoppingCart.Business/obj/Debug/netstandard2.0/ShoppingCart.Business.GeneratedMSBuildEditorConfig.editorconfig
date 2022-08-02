@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ShoppingCart.Business
+build_property.ProjectDir = C:\Sumit\Git\design-patterns\DesignPatterns.Command\Tutorial\demos\ShoppingCart.Business\

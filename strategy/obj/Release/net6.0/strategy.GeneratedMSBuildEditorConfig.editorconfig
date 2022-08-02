@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = strategy
+build_property.RootNamespace = DesignPatterns.Strategy
 build_property.ProjectDir = C:\Sumit\Git\design-patterns\strategy\

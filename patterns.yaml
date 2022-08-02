@@ -1,0 +1,71 @@
+- name: Strategy
+  intent: |
+    Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from the clients that use it.
+  description: |
+     The strategy pattern is behavioural design pattern and the idea is that you choose a suitable strategy based on user input
+     the strategy pattern (also known as the policy pattern) is a behavioral software design pattern that enables selecting an algorithm at runtime. Instead of implementing a single algorithm directly, code receives run-time instructions as to which in a family of algorithms to use
+     select an implementation at runtime based on the user input without having to extend the class.
+     Whenever we find an interface that will allow us to change some behavior,We can inject our own implementation and make sure that we provide the strategy for how to solve that particular problem.",
+  example: |
+     select an implementation at runtime based on the user input without having to extend the class
+     whenever we find an interface that will allow us to change some behavior,
+     we can inject our own implementation and make sure that we provide the strategy for how to solve that particular problem."
+     For example if think of a logger. A logger can log messages in many different ways. In database, in flat file and in any other service like otlp, Jaeger and many more. We can choose which service(Strategy) on runtime based on configurataion.
+     Another example is to store files in application. We can implement different ways of storing a file in application. Like storing in database, on the application server, on shared folder, on ftp server, azure storage, aws s3. Depending on requirements we can configure/choose desired strategy to store file.
+  links:
+  - 'https://en.wikipedia.org/wiki/Strategy_pattern'
+  - 'https://www.informit.com/articles/article.aspx?p=1398602&seqNum=4'
+  - 'https://refactoring.guru/design-patterns/strategy'
+
+- name: Command
+  intent: |
+    The Command pattern is a behavioral design pattern that we can use to turn a request into an object which contains all the information about the request
+    This transformation lets you pass requests as a method arguments, delay or queue a request’s execution, and support undoable operations
+  description: |
+     The Command design pattern is quite popular in C#, especially when we want to delay or queue a request’s execution or when we want to keep track of our operations. Furthermore, this possibility to keep track of our operations gives us the opportunity to undo them as well.
+     There are four terms in Command Design Pattern Client, Invoker, Receiver and Command. 
+     A command object knows about the receiver and invokes a method of reciver. 
+     An invoker knows how to execute a command and optionally does bookkeeping of commands executed.
+     Command Object, Reciver Object and Invoker Object are held in Client Object. 
+     the client decides which receiver objects it assigns to the command objects, 
+     and which commands it assigns to the invoker. 
+     The client decides which commands to execute at which points. To execute a command, it passes the command object to the invoker object.
+     Command calls actual method of the receiver(target object). Invoker excutes command object. Clinet creates Receiver,Command objects and then creates Invoker Object and Schedules command in it. 
+  example: |
+     
+  links:
+  - 'https://docs.microsoft.com/en-us/archive/msdn-magazine/2004/september/distributed-system-design-using-command-pattern-msmq-and-net'
+  - 'https://code-maze.com/command/'
+  - 'https://refactoring.guru/design-patterns/command/csharp/example'
+  - 'https://betterprogramming.pub/the-command-design-pattern-2313909122b5'
+
+- name: Bridge
+  intent: |
+    Bridge is a structural design pattern that lets you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
+  description: |
+    When a large class is changing very often then split it into more than one class and encapsulate related members together. The create/pass object of one in another to bridge the gap which is created by slitting the classes. 
+    The definition is a bit dirrerent but actual implementation may look similar to the Strategy Pattern. 
+  example: |
+    Think about a Window Application which can run on many Operating systems. You can code everything one class and use if-else to execute os native function.
+    Or you can create one UI class and many os reated functiolity classes. Then pass the desired native implementation to the UI class to brigde the gap. 
+  links:
+  - 'https://refactoring.guru/design-patterns/bridge'
+  - 'https://www.geeksforgeeks.org/bridge-design-pattern/'
+  - 'https://exceptionnotfound.net/bridge-pattern-in-csharp/'
+
+- name: NullObject
+  intent: |
+    a null object is an object with no referenced value or with defined neutral (null) behavior.
+    The intent of a Null Object is to encapsulate the absence of an object by providing a substitutable alternative that offers suitable default do nothing behavior. In short, a design where "nothing will come of nothing"
+  description: |
+    Instead of using a null reference to convey absence of an object (for instance, a non-existent customer), one uses an object which implements the expected interface, but whose method body is empty. The advantage of this approach over a working default implementation is that a null object is very predictable and has no side effects it does nothing.
+  example: |
+    This is just to avoid the multiple null checks. Create a singelton of default/nullObject for a class with members. The methods will do nothing and properties will have value of no meaning.
+  links:
+  - 'https://sourcemaking.com/design_patterns/null_object'
+  - 'https://www.tutorialspoint.com/design_pattern/null_object_pattern.htm'
+  - 'https://en.wikipedia.org/wiki/Null_object_pattern/'
+
+- name: SomeUsefull Links
+  links:
+  - 'https://docs.microsoft.com/en-us/archive/msdn-magazine/2005/july/discovering-the-design-patterns-you-re-already-using-in-net'

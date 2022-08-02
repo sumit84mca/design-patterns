@@ -1,0 +1,180 @@
+C:\Sumit\Git\design-patterns\strategy\obj\Debug\net6.0\strategy.csproj.AssemblyReference.cache
+C:\Sumit\Git\design-patterns\strategy\obj\Debug\net6.0\strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\obj\Debug\net6.0\strategy.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\obj\Debug\net6.0\strategy.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\obj\Debug\net6.0\strategy.csproj.CoreCompileInputs.cache
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Completed\Business\Models\Order.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Completed\Business\Strategies\SalesTax\ISalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Completed\Business\Strategies\SalesTax\SwedenSalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Completed\Business\Strategies\SalesTax\USAStateSalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Completed\obj\Debug\netcoreapp3.0\.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Completed\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Completed\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Completed\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Completed\obj\Release\netcoreapp3.0\.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Completed\obj\Release\netcoreapp3.0\Strategy Pattern First Look.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Completed\obj\Release\netcoreapp3.0\Strategy Pattern First Look.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Completed\obj\Release\netcoreapp3.0\Strategy Pattern First Look.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Completed\Program.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Completed\Strategy Pattern First Look.csproj
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Completed\Strategy Pattern First Look.sln
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Start_Here\Business\Models\Order.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Debug\netcoreapp3.0\.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Release\netcoreapp3.0\.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Release\netcoreapp3.0\Strategy Pattern First Look.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Release\netcoreapp3.0\Strategy Pattern First Look.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Release\netcoreapp3.0\Strategy Pattern First Look.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Start_Here\Program.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Start_Here\Strategy Pattern First Look.csproj
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 1 - Strategy Pattern First Look\Start_Here\Strategy Pattern First Look.sln
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Completed\Business\Models\Order.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Completed\Business\Strategies\SalesTax\ISalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Completed\Business\Strategies\SalesTax\SwedenSalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Completed\Business\Strategies\SalesTax\USAStateSalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Completed\obj\Debug\netcoreapp3.0\.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Completed\obj\Debug\netcoreapp3.0\Strategy Pattern An alternative approach.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Completed\obj\Debug\netcoreapp3.0\Strategy Pattern An alternative approach.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Completed\obj\Debug\netcoreapp3.0\Strategy Pattern An alternative approach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Completed\obj\Release\netcoreapp3.0\.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Completed\obj\Release\netcoreapp3.0\Strategy Pattern An alternative approach.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Completed\obj\Release\netcoreapp3.0\Strategy Pattern An alternative approach.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Completed\obj\Release\netcoreapp3.0\Strategy Pattern An alternative approach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Completed\Program.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Completed\Strategy Pattern An alternative approach.csproj
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Completed\Strategy Pattern An alternative approach.sln
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Start_Here\Business\Models\Order.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Start_Here\Business\Strategies\SalesTax\ISalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Start_Here\Business\Strategies\SalesTax\SwedenSalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Start_Here\Business\Strategies\SalesTax\USAStateSalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Start_Here\obj\Debug\netcoreapp3.0\.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern An alternative approach.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern An alternative approach.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern An alternative approach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Start_Here\obj\Release\netcoreapp3.0\.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Start_Here\obj\Release\netcoreapp3.0\Strategy Pattern An alternative approach.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Start_Here\obj\Release\netcoreapp3.0\Strategy Pattern An alternative approach.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Start_Here\obj\Release\netcoreapp3.0\Strategy Pattern An alternative approach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Start_Here\Program.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Start_Here\Strategy Pattern An alternative approach.csproj
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 2 - An alternative approach\Start_Here\Strategy Pattern An alternative approach.sln
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\Business\Models\Order.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\Business\Strategies\Invoice\EmailInvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\Business\Strategies\Invoice\FileInvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\Business\Strategies\Invoice\IInvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\Business\Strategies\Invoice\InvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\Business\Strategies\Invoice\PrintOnDemandInvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\Business\Strategies\SalesTax\ISalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\Business\Strategies\SalesTax\SwedenSalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\Business\Strategies\SalesTax\USAStateSalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\obj\Debug\netcoreapp3.0\.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\obj\Debug\netcoreapp3.0\Strategy Pattern Creating an invoice.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\obj\Debug\netcoreapp3.0\Strategy Pattern Creating an invoice.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\obj\Debug\netcoreapp3.0\Strategy Pattern Creating an invoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\obj\Release\netcoreapp3.0\.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\obj\Release\netcoreapp3.0\Strategy Pattern Creating an invoice.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\obj\Release\netcoreapp3.0\Strategy Pattern Creating an invoice.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\obj\Release\netcoreapp3.0\Strategy Pattern Creating an invoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\Program.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\Strategy Pattern Creating an invoice.csproj
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Completed\Strategy Pattern Creating an invoice.sln
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Start_Here\Business\Models\Order.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Start_Here\Business\Strategies\SalesTax\ISalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Start_Here\Business\Strategies\SalesTax\SwedenSalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Start_Here\Business\Strategies\SalesTax\USAStateSalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Start_Here\obj\Debug\netcoreapp3.0\.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern Creating an invoice.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern Creating an invoice.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern Creating an invoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Start_Here\obj\Release\netcoreapp3.0\.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Start_Here\obj\Release\netcoreapp3.0\Strategy Pattern Creating an invoice.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Start_Here\obj\Release\netcoreapp3.0\Strategy Pattern Creating an invoice.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Start_Here\obj\Release\netcoreapp3.0\Strategy Pattern Creating an invoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Start_Here\Program.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Start_Here\Strategy Pattern Creating an invoice.csproj
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 3 - Creating an invoice\Start_Here\Strategy Pattern Creating an invoice.sln
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\Business\Models\Order.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\Business\Strategies\Invoice\EmailInvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\Business\Strategies\Invoice\FileInvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\Business\Strategies\Invoice\IInvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\Business\Strategies\Invoice\InvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\Business\Strategies\Invoice\PrintOnDemandInvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\Business\Strategies\SalesTax\ISalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\Business\Strategies\SalesTax\SwedenSalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\Business\Strategies\SalesTax\USAStateSalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\Business\Strategies\Shipping\DhlShippingStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\Business\Strategies\Shipping\FedexShippingStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\Business\Strategies\Shipping\IShippingStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\Business\Strategies\Shipping\SwedishPostalServiceShippingStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\Business\Strategies\Shipping\UnitedStatesPostalServiceShippingStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\Business\Strategies\Shipping\UpsShippingStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\obj\Debug\netcoreapp3.0\.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\obj\Debug\netcoreapp3.0\Strategy Pattern Using different shipping providers.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\obj\Debug\netcoreapp3.0\Strategy Pattern Using different shipping providers.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\obj\Debug\netcoreapp3.0\Strategy Pattern Using different shipping providers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\obj\Release\netcoreapp3.0\.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\obj\Release\netcoreapp3.0\Strategy Pattern Using different shipping providers.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\obj\Release\netcoreapp3.0\Strategy Pattern Using different shipping providers.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\obj\Release\netcoreapp3.0\Strategy Pattern Using different shipping providers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\Program.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\Strategy Pattern Using different shipping providers.csproj
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Completed\Strategy Pattern Using different shipping providers.sln
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\Business\Models\Order.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\Business\Strategies\Invoice\EmailInvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\Business\Strategies\Invoice\FileInvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\Business\Strategies\Invoice\IInvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\Business\Strategies\Invoice\InvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\Business\Strategies\Invoice\PrintOnDemandInvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\Business\Strategies\SalesTax\ISalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\Business\Strategies\SalesTax\SwedenSalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\Business\Strategies\SalesTax\USAStateSalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\obj\Debug\netcoreapp3.0\.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern Using different shipping providers.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern Using different shipping providers.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern Using different shipping providers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\obj\Release\netcoreapp3.0\.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\obj\Release\netcoreapp3.0\Strategy Pattern Using different shipping providers.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\obj\Release\netcoreapp3.0\Strategy Pattern Using different shipping providers.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\obj\Release\netcoreapp3.0\Strategy Pattern Using different shipping providers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\Program.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\Strategy Pattern Using different shipping providers.csproj
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 4 - Using different shipping providers\Start_Here\Strategy Pattern Using different shipping providers.sln
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\Business\Models\Order.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\Business\Strategies\Invoice\EmailInvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\Business\Strategies\Invoice\FileInvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\Business\Strategies\Invoice\IInvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\Business\Strategies\Invoice\InvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\Business\Strategies\Invoice\PrintOnDemandInvoiceStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\Business\Strategies\SalesTax\ISalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\Business\Strategies\SalesTax\SwedenSalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\Business\Strategies\SalesTax\USAStateSalesTaxStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\Business\Strategies\Shipping\DhlShippingStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\Business\Strategies\Shipping\FedexShippingStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\Business\Strategies\Shipping\IShippingStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\Business\Strategies\Shipping\SwedishPostalServiceShippingStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\Business\Strategies\Shipping\UnitedStatesPostalServiceShippingStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\Business\Strategies\Shipping\UpsShippingStrategy.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\obj\Debug\netcoreapp3.0\.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\obj\Debug\netcoreapp3.0\Strategy Pattern Using different shipping providers.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\obj\Debug\netcoreapp3.0\Strategy Pattern Using different shipping providers.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\obj\Debug\netcoreapp3.0\Strategy Pattern Using different shipping providers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\obj\Release\netcoreapp3.0\.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\obj\Release\netcoreapp3.0\Strategy Pattern Using different shipping providers.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\obj\Release\netcoreapp3.0\Strategy Pattern Using different shipping providers.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\obj\Release\netcoreapp3.0\Strategy Pattern Using different shipping providers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\Program.cs
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\Strategy Pattern Using different shipping providers.csproj
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\demos\Demo 5 - Array.Sort\Completed\Strategy Pattern Using different shipping providers.sln
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\Tutorial\strategy-pattern-slides.pdf
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\DesignPatterns.Strategy.exe
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\DesignPatterns.Strategy.deps.json
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\DesignPatterns.Strategy.runtimeconfig.json
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\DesignPatterns.Strategy.dll
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\ref\DesignPatterns.Strategy.dll
+C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\DesignPatterns.Strategy.pdb
+C:\Sumit\Git\design-patterns\strategy\obj\Debug\net6.0\DesignPatterns.Strategy.dll
+C:\Sumit\Git\design-patterns\strategy\obj\Debug\net6.0\ref\DesignPatterns.Strategy.dll
+C:\Sumit\Git\design-patterns\strategy\obj\Debug\net6.0\DesignPatterns.Strategy.pdb
+C:\Sumit\Git\design-patterns\strategy\obj\Debug\net6.0\Strategy.genruntimeconfig.cache

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sumit\\Git\\design-patterns\\strategy\\strategy.csproj": {}
+    "C:\\Sumit\\Git\\design-patterns\\strategy\\Strategy.csproj": {}
   },
   "projects": {
-    "C:\\Sumit\\Git\\design-patterns\\strategy\\strategy.csproj": {
+    "C:\\Sumit\\Git\\design-patterns\\strategy\\Strategy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sumit\\Git\\design-patterns\\strategy\\strategy.csproj",
-        "projectName": "strategy",
-        "projectPath": "C:\\Sumit\\Git\\design-patterns\\strategy\\strategy.csproj",
+        "projectUniqueName": "C:\\Sumit\\Git\\design-patterns\\strategy\\Strategy.csproj",
+        "projectName": "DesignPatterns.Strategy",
+        "projectPath": "C:\\Sumit\\Git\\design-patterns\\strategy\\Strategy.csproj",
         "packagesPath": "C:\\Users\\703201313\\.nuget\\packages\\",
         "outputPath": "C:\\Sumit\\Git\\design-patterns\\strategy\\obj\\",
         "projectStyle": "PackageReference",

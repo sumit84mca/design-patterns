@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>DesignPatterns.$(MSBuildProjectName)</RootNamespace>
+    <AssemblyName>DesignPatterns.$(MSBuildProjectName)</AssemblyName>
+  </PropertyGroup>	
+	<ItemGroup>
+	  <Compile Remove="Tutorial\**\*.*" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Content Include="Tutorial\**\*.*">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </Content>
+	</ItemGroup>
+	<ItemGroup>
+	  <Compile Update="Business\Models\Order.cs">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Compile>
+	</ItemGroup>
+</Project>

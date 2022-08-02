@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nsRBcdu2hRB0ieWCvr+c/xzSo+N5BLjB9IuEEa9BrN2xRB5Kss3AZz1Ozv+AKSE3QAYPjCNTUeDzQBoUWRXf3w==",
+  "dgSpecHash": "v/dizILKJcdHNt4xF7nVe3FoG9zO5/YYTSIBuKyUBCb7BES1nSxqWjIiB6UiDx0Fm5tmsufpaoy0+kY0Qn9zrw==",
   "success": true,
-  "projectFilePath": "C:\\Sumit\\Git\\design-patterns\\strategy\\strategy.csproj",
+  "projectFilePath": "C:\\Sumit\\Git\\design-patterns\\strategy\\DesignPatterns.Strategy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

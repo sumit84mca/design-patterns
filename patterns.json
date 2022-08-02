@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Strategy",
+    "intent": "Define a family of algorithms, encapsulate each one, and make them interchangeable. Strategy lets the algorithm vary independently from the clients that use it.\n",
+    "description": "The strategy pattern is behavioural design pattern and the idea is that you choose a suitable strategy based on user input\nthe strategy pattern (also known as the policy pattern) is a behavioral software design pattern that enables selecting an algorithm at runtime. Instead of implementing a single algorithm directly, code receives run-time instructions as to which in a family of algorithms to use\nselect an implementation at runtime based on the user input without having to extend the class.\nWhenever we find an interface that will allow us to change some behavior,We can inject our own implementation and make sure that we provide the strategy for how to solve that particular problem.\",\n",
+    "example": "select an implementation at runtime based on the user input without having to extend the class\nwhenever we find an interface that will allow us to change some behavior,\nwe can inject our own implementation and make sure that we provide the strategy for how to solve that particular problem.\"\nFor example if think of a logger. A logger can log messages in many different ways. In database, in flat file and in any other service like otlp, Jaeger and many more. We can choose which service(Strategy) on runtime based on configurataion.\nAnother example is to store files in application. We can implement different ways of storing a file in application. Like storing in database, on the application server, on shared folder, on ftp server, azure storage, aws s3. Depending on requirements we can configure/choose desired strategy to store file.\n",
+    "links": [
+      "https://en.wikipedia.org/wiki/Strategy_pattern",
+      "https://www.informit.com/articles/article.aspx?p=1398602&seqNum=4",
+      "https://refactoring.guru/design-patterns/strategy"
+    ]
+  }
+]
