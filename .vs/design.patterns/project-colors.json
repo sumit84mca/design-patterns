@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8cb418b0-bb08-4b7a-b768-c29fcf1e959b": {
+      "ProjectGuid": "8cb418b0-bb08-4b7a-b768-c29fcf1e959b",
+      "DisplayName": "DesignPatterns.Strategy",
+      "ColorIndex": 0
+    },
+    "9cbebdad-d724-4987-afc4-42ec0d2ba133": {
+      "ProjectGuid": "9cbebdad-d724-4987-afc4-42ec0d2ba133",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "e7105765-62a3-495a-9b0b-b9406177fca8": {
+      "ProjectGuid": "e7105765-62a3-495a-9b0b-b9406177fca8",
+      "DisplayName": "DesignPatterns.Command",
+      "ColorIndex": 2
+    },
+    "183a3b05-c707-4c61-868d-48de07048e27": {
+      "ProjectGuid": "183a3b05-c707-4c61-868d-48de07048e27",
+      "DisplayName": "DesignPatterns.OpenTelemetry",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "03378e0a-c48a-4229-90b0-06e6df8b5c95": {
+      "ProjectGuid": "03378e0a-c48a-4229-90b0-06e6df8b5c95",
+      "DisplayName": "DesignPatterns.HttpClientIssue",
+      "ColorIndex": 4
+    },
+    "bd1728bd-5c21-439a-b279-a4cabaf25af7": {
+      "ProjectGuid": "bd1728bd-5c21-439a-b279-a4cabaf25af7",
+      "DisplayName": "CaptureRAWRequest",
+      "ColorIndex": 5
+    },
+    "5d0d8a33-2f0b-43e0-860a-6ef7742f0a20": {
+      "ProjectGuid": "5d0d8a33-2f0b-43e0-860a-6ef7742f0a20",
+      "DisplayName": "DesignPatterns.AzureRestApi",
+      "ColorIndex": 6
+    },
+    "9d1ffc75-6b38-44e5-bb1a-a12d47f3dc58": {
+      "ProjectGuid": "9d1ffc75-6b38-44e5-bb1a-a12d47f3dc58",
+      "DisplayName": "TestNetClient",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DesignPatterns.Command
+build_property.ProjectDir = C:\Sumit\Git\design-patterns\DesignPatterns.Command\

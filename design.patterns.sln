@@ -12,7 +12,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		patterns.yaml = patterns.yaml
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Command", "DesignPatterns.Command\DesignPatterns.Command.csproj", "{E7105765-62A3-495A-9B0B-B9406177FCA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Command", "DesignPatterns.Command\DesignPatterns.Command.csproj", "{E7105765-62A3-495A-9B0B-B9406177FCA8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.OpenTelemetry", "DesignPatterns.OpenTelemetry\DesignPatterns.OpenTelemetry.csproj", "{183A3B05-C707-4C61-868D-48DE07048E27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.AzureRestApi", "DesignPatterns.AzureRestApi\DesignPatterns.AzureRestApi.csproj", "{5D0D8A33-2F0B-43E0-860A-6EF7742F0A20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.HttpClientIssue", "DesignPatterns.HttpClientIssue\DesignPatterns.HttpClientIssue.csproj", "{03378E0A-C48A-4229-90B0-06E6DF8B5C95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNetClient", "TestNetClient\TestNetClient.csproj", "{9D1FFC75-6B38-44E5-BB1A-A12D47F3DC58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptureRAWRequest", "CaptureRAWRequest\CaptureRAWRequest.csproj", "{BD1728BD-5C21-439A-B279-A4CABAF25AF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,6 +38,26 @@ Global
 		{E7105765-62A3-495A-9B0B-B9406177FCA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7105765-62A3-495A-9B0B-B9406177FCA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7105765-62A3-495A-9B0B-B9406177FCA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{183A3B05-C707-4C61-868D-48DE07048E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183A3B05-C707-4C61-868D-48DE07048E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183A3B05-C707-4C61-868D-48DE07048E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183A3B05-C707-4C61-868D-48DE07048E27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D0D8A33-2F0B-43E0-860A-6EF7742F0A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0D8A33-2F0B-43E0-860A-6EF7742F0A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0D8A33-2F0B-43E0-860A-6EF7742F0A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0D8A33-2F0B-43E0-860A-6EF7742F0A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03378E0A-C48A-4229-90B0-06E6DF8B5C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03378E0A-C48A-4229-90B0-06E6DF8B5C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03378E0A-C48A-4229-90B0-06E6DF8B5C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03378E0A-C48A-4229-90B0-06E6DF8B5C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D1FFC75-6B38-44E5-BB1A-A12D47F3DC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1FFC75-6B38-44E5-BB1A-A12D47F3DC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1FFC75-6B38-44E5-BB1A-A12D47F3DC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1FFC75-6B38-44E5-BB1A-A12D47F3DC58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD1728BD-5C21-439A-B279-A4CABAF25AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1728BD-5C21-439A-B279-A4CABAF25AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1728BD-5C21-439A-B279-A4CABAF25AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1728BD-5C21-439A-B279-A4CABAF25AF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

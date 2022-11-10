@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "P/ej0d6EwLVBUH4ofzrFB2C0RHWQBr7wSZT+z99S+HY=",
+  "Source": "CaptureRAWRequest",
+  "BasePath": "_content/CaptureRAWRequest",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CaptureRAWRequest\\wwwroot",
+      "Source": "CaptureRAWRequest",
+      "ContentRoot": "C:\\Sumit\\Git\\design-patterns\\CaptureRAWRequest\\wwwroot\\",
+      "BasePath": "_content/CaptureRAWRequest",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Sumit\\Git\\design-patterns\\CaptureRAWRequest\\wwwroot\\found.png",
+      "SourceId": "CaptureRAWRequest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Sumit\\Git\\design-patterns\\CaptureRAWRequest\\wwwroot\\",
+      "BasePath": "_content/CaptureRAWRequest",
+      "RelativePath": "found.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\found.png"
+    },
+    {
+      "Identity": "C:\\Sumit\\Git\\design-patterns\\CaptureRAWRequest\\wwwroot\\htmlpage.html",
+      "SourceId": "CaptureRAWRequest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Sumit\\Git\\design-patterns\\CaptureRAWRequest\\wwwroot\\",
+      "BasePath": "_content/CaptureRAWRequest",
+      "RelativePath": "htmlpage.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\htmlpage.html"
+    },
+    {
+      "Identity": "C:\\Sumit\\Git\\design-patterns\\CaptureRAWRequest\\wwwroot\\image.png",
+      "SourceId": "CaptureRAWRequest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Sumit\\Git\\design-patterns\\CaptureRAWRequest\\wwwroot\\",
+      "BasePath": "_content/CaptureRAWRequest",
+      "RelativePath": "image.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image.png"
+    },
+    {
+      "Identity": "C:\\Sumit\\Git\\design-patterns\\CaptureRAWRequest\\wwwroot\\notfound.png",
+      "SourceId": "CaptureRAWRequest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Sumit\\Git\\design-patterns\\CaptureRAWRequest\\wwwroot\\",
+      "BasePath": "_content/CaptureRAWRequest",
+      "RelativePath": "notfound.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\notfound.png"
+    }
+  ]
+}

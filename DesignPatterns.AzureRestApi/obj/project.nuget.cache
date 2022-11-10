@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HPFaBohoUXngZPIDCkst5OpBmL6wKByF6eXLEd0AB0Hq7yAlgsPl+J/HnvjjCtJVdkr/iSW+z8VdnrbDmMiz6w==",
+  "success": true,
+  "projectFilePath": "C:\\Sumit\\Git\\design-patterns\\DesignPatterns.AzureRestApi\\DesignPatterns.AzureRestApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\703201313\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Sumit\Git\design-patterns\CaptureRAWRequest\obj\Release\net6.0\PubTmp\Out\CaptureRAWRequest.exe
+C:\Sumit\Git\design-patterns\CaptureRAWRequest\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Sumit\Git\design-patterns\CaptureRAWRequest\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Sumit\Git\design-patterns\CaptureRAWRequest\obj\Release\net6.0\PubTmp\Out\CaptureRAWRequest.dll
+C:\Sumit\Git\design-patterns\CaptureRAWRequest\obj\Release\net6.0\PubTmp\Out\CaptureRAWRequest.deps.json
+C:\Sumit\Git\design-patterns\CaptureRAWRequest\obj\Release\net6.0\PubTmp\Out\CaptureRAWRequest.runtimeconfig.json
+C:\Sumit\Git\design-patterns\CaptureRAWRequest\obj\Release\net6.0\PubTmp\Out\CaptureRAWRequest.pdb
+C:\Sumit\Git\design-patterns\CaptureRAWRequest\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Sumit\Git\design-patterns\CaptureRAWRequest\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Sumit\Git\design-patterns\CaptureRAWRequest\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Sumit\Git\design-patterns\CaptureRAWRequest\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,659 @@
+﻿++Solution 'design.patterns' ‎(7 of 7 projects)
+i:{00000000-0000-0000-0000-000000000000}:design.patterns.sln
+++Solution Items
+i:{00000000-0000-0000-0000-000000000000}:Solution Items
+++design-patterns.html
+i:{9cbebdad-d724-4987-afc4-42ec0d2ba133}:C:\Sumit\Git\design-patterns\design-patterns.html
+++patterns.json
+i:{9cbebdad-d724-4987-afc4-42ec0d2ba133}:C:\Sumit\Git\design-patterns\patterns.json
+++patterns.yaml
+i:{9cbebdad-d724-4987-afc4-42ec0d2ba133}:C:\Sumit\Git\design-patterns\patterns.yaml
+++TestNetClient
+i:{00000000-0000-0000-0000-000000000000}:TestNetClient
+++Properties
+i:{9d1ffc75-6b38-44e5-bb1a-a12d47f3dc58}:c:\sumit\git\design-patterns\testnetclient\properties\
+i:{03378e0a-c48a-4229-90b0-06e6df8b5c95}:c:\sumit\git\design-patterns\designpatterns.httpclientissue\properties\
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\sumit\git\design-patterns\capturerawrequest\properties\
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\properties\
+++References
+i:{9d1ffc75-6b38-44e5-bb1a-a12d47f3dc58}:
+++App.config
+i:{9d1ffc75-6b38-44e5-bb1a-a12d47f3dc58}:c:\sumit\git\design-patterns\testnetclient\app.config
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\app.config
+++Program.cs
+i:{9d1ffc75-6b38-44e5-bb1a-a12d47f3dc58}:c:\sumit\git\design-patterns\testnetclient\program.cs
+i:{183a3b05-c707-4c61-868d-48de07048e27}:c:\sumit\git\design-patterns\designpatterns.opentelemetry\program.cs
+i:{5d0d8a33-2f0b-43e0-860a-6ef7742f0a20}:c:\sumit\git\design-patterns\designpatterns.azurerestapi\program.cs
+i:{03378e0a-c48a-4229-90b0-06e6df8b5c95}:c:\sumit\git\design-patterns\designpatterns.httpclientissue\program.cs
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\sumit\git\design-patterns\capturerawrequest\program.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\program.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart\program.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\program.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\program.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\program.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\program.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\program.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\program.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\program.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\program.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\program.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\program.cs
+++AssemblyInfo.cs
+i:{9d1ffc75-6b38-44e5-bb1a-a12d47f3dc58}:c:\sumit\git\design-patterns\testnetclient\properties\assemblyinfo.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\properties\assemblyinfo.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\assemblyinfo.cs
+++Microsoft.CSharp
+i:{9d1ffc75-6b38-44e5-bb1a-a12d47f3dc58}:
+++System
+i:{9d1ffc75-6b38-44e5-bb1a-a12d47f3dc58}:
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.8\system.dll
+++System.Core
+i:{9d1ffc75-6b38-44e5-bb1a-a12d47f3dc58}:
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.8\system.core.dll
+++System.Data
+i:{9d1ffc75-6b38-44e5-bb1a-a12d47f3dc58}:
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.8\system.data.dll
+++System.Data.DataSetExtensions
+i:{9d1ffc75-6b38-44e5-bb1a-a12d47f3dc58}:
+++System.Net.Http
+i:{9d1ffc75-6b38-44e5-bb1a-a12d47f3dc58}:
+++System.Xml
+i:{9d1ffc75-6b38-44e5-bb1a-a12d47f3dc58}:
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.8\system.xml.dll
+++System.Xml.Linq
+i:{9d1ffc75-6b38-44e5-bb1a-a12d47f3dc58}:
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.8\system.xml.linq.dll
+++DesignPatterns.OpenTelemetry
+i:{00000000-0000-0000-0000-000000000000}:DesignPatterns.OpenTelemetry
+++Dependencies
+i:{183a3b05-c707-4c61-868d-48de07048e27}:>377950
+i:{5d0d8a33-2f0b-43e0-860a-6ef7742f0a20}:>378715
+i:{03378e0a-c48a-4229-90b0-06e6df8b5c95}:>381624
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:>379345
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:>381242
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:>382821
+++OTLP.cs
+i:{183a3b05-c707-4c61-868d-48de07048e27}:c:\sumit\git\design-patterns\designpatterns.opentelemetry\otlp.cs
+++Analyzers
+i:{183a3b05-c707-4c61-868d-48de07048e27}:analyzers
+i:{5d0d8a33-2f0b-43e0-860a-6ef7742f0a20}:analyzers
+i:{03378e0a-c48a-4229-90b0-06e6df8b5c95}:analyzers
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:analyzers
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:analyzers
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:analyzers
+++Frameworks
+i:{183a3b05-c707-4c61-868d-48de07048e27}:frameworks
+i:{5d0d8a33-2f0b-43e0-860a-6ef7742f0a20}:frameworks
+i:{03378e0a-c48a-4229-90b0-06e6df8b5c95}:frameworks
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:frameworks
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:frameworks
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:frameworks
+++Packages
+i:{183a3b05-c707-4c61-868d-48de07048e27}:packages
+i:{5d0d8a33-2f0b-43e0-860a-6ef7742f0a20}:packages
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:packages
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{183a3b05-c707-4c61-868d-48de07048e27}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5d0d8a33-2f0b-43e0-860a-6ef7742f0a20}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{03378e0a-c48a-4229-90b0-06e6df8b5c95}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\targets\..\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{183a3b05-c707-4c61-868d-48de07048e27}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5d0d8a33-2f0b-43e0-860a-6ef7742f0a20}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{03378e0a-c48a-4229-90b0-06e6df8b5c95}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk\targets\..\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{183a3b05-c707-4c61-868d-48de07048e27}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{5d0d8a33-2f0b-43e0-860a-6ef7742f0a20}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{03378e0a-c48a-4229-90b0-06e6df8b5c95}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.8\analyzers/dotnet/cs/system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{183a3b05-c707-4c61-868d-48de07048e27}:c:\sumit\git\design-patterns\designpatterns.opentelemetry\microsoft.netcore.app
+i:{5d0d8a33-2f0b-43e0-860a-6ef7742f0a20}:c:\sumit\git\design-patterns\designpatterns.azurerestapi\microsoft.netcore.app
+i:{03378e0a-c48a-4229-90b0-06e6df8b5c95}:c:\sumit\git\design-patterns\designpatterns.httpclientissue\microsoft.netcore.app
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\sumit\git\design-patterns\capturerawrequest\microsoft.netcore.app
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\microsoft.netcore.app
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:microsoft.netcore.app
+++OpenTelemetry.Exporter.Console (1.3.0)
+i:{183a3b05-c707-4c61-868d-48de07048e27}:>380630
+++DesignPatterns.AzureRestApi
+i:{00000000-0000-0000-0000-000000000000}:DesignPatterns.AzureRestApi
+++CloneBuildDefinition.cs
+i:{5d0d8a33-2f0b-43e0-860a-6ef7742f0a20}:c:\sumit\git\design-patterns\designpatterns.azurerestapi\clonebuilddefinition.cs
+++Newtonsoft.Json (13.0.1)
+i:{5d0d8a33-2f0b-43e0-860a-6ef7742f0a20}:>380644
+++DesignPatterns.HttpClientIssue
+i:{00000000-0000-0000-0000-000000000000}:DesignPatterns.HttpClientIssue
+++Countries.cs
+i:{03378e0a-c48a-4229-90b0-06e6df8b5c95}:c:\sumit\git\design-patterns\designpatterns.httpclientissue\countries.cs
+++launchSettings.json
+i:{03378e0a-c48a-4229-90b0-06e6df8b5c95}:c:\sumit\git\design-patterns\designpatterns.httpclientissue\properties\launchsettings.json
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\sumit\git\design-patterns\capturerawrequest\properties\launchsettings.json
+++CaptureRAWRequest
+i:{00000000-0000-0000-0000-000000000000}:CaptureRAWRequest
+++Connected Services 
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:>379346
+++wwwroot
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\sumit\git\design-patterns\capturerawrequest\wwwroot\
+++Controllers
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\sumit\git\design-patterns\capturerawrequest\controllers\
+++appsettings.Development.json
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\sumit\git\design-patterns\capturerawrequest\appsettings.development.json
+++appsettings.json
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\sumit\git\design-patterns\capturerawrequest\appsettings.json
+++WeatherForecast.cs
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\sumit\git\design-patterns\capturerawrequest\weatherforecast.cs
+++No service dependencies discovered
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:>379347
+++PublishProfiles
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\sumit\git\design-patterns\capturerawrequest\properties\publishprofiles\
+++found.png
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\sumit\git\design-patterns\capturerawrequest\wwwroot\found.png
+++htmlpage.html
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\sumit\git\design-patterns\capturerawrequest\wwwroot\htmlpage.html
+++image.png
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\sumit\git\design-patterns\capturerawrequest\wwwroot\image.png
+++notfound.png
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\sumit\git\design-patterns\capturerawrequest\wwwroot\notfound.png
+++CaptureRequestController.cs
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\sumit\git\design-patterns\capturerawrequest\controllers\capturerequestcontroller.cs
+++WeatherForecastController.cs
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\sumit\git\design-patterns\capturerawrequest\controllers\weatherforecastcontroller.cs
+++Microsoft.AspNetCore.Analyzers
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.8\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.8\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.Extensions.Logging.Generators
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.8\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\program files\dotnet\sdk\6.0.108\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\sumit\git\design-patterns\capturerawrequest\microsoft.aspnetcore.app
+++Swashbuckle.AspNetCore (6.2.3)
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:>380619
+++FolderProfile.pubxml
+i:{bd1728bd-5c21-439a-b279-a4cabaf25af7}:c:\sumit\git\design-patterns\capturerawrequest\properties\publishprofiles\folderprofile.pubxml
+++DesignPatterns.Command
+i:{00000000-0000-0000-0000-000000000000}:DesignPatterns.Command
+++Command
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\command\
+++Tutorial
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\
+++Product.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\product.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\models\product.cs
+++ICommand.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\command\icommand.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\commands\icommand.cs
+++ProductCommandManager.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\command\productcommandmanager.cs
+++demos
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\
+++command-pattern-slides.pdf
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\command-pattern-slides.pdf
+++ShoppingCart
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart\
+++ShoppingCart.Business
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\
+++ShoppingCart.Windows
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\
+++ShoppingCart.sln
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.sln
+++obj
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart\obj\
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\obj\
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\obj\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\obj\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\obj\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\obj\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\obj\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\obj\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\obj\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\obj\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\obj\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\obj\
+++ShoppingCart.csproj
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart\shoppingcart.csproj
+++Commands
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\commands\
+++Models
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\models\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\business\models\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\business\models\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\business\models\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\business\models\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\business\models\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\business\models\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\business\models\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\models\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\business\models\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\models\
+++Repositories
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\repositories\
+++ShoppingCart.Business.csproj
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\shoppingcart.business.csproj
+++ViewModels
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\viewmodels\
+++App.xaml
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\app.xaml
+++MainWindow.xaml
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\mainwindow.xaml
+++ShoppingCart.Windows.csproj
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\shoppingcart.windows.csproj
+++Debug
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart\obj\debug\
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\obj\debug\
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\obj\debug\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\obj\debug\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\obj\debug\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\obj\debug\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\obj\debug\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\obj\debug\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\obj\debug\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\obj\debug\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\obj\debug\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\obj\debug\
+++Release
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart\obj\release\
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\obj\release\
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\obj\release\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\obj\release\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\obj\release\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\obj\release\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\obj\release\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\obj\release\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\obj\release\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\obj\release\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\obj\release\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\obj\release\
+++AddToCartCommand.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\commands\addtocartcommand.cs
+++ChangeQuantityCommand.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\commands\changequantitycommand.cs
+++CommandManager.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\commands\commandmanager.cs
+++RemoveAllFromCartCommand.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\commands\removeallfromcartcommand.cs
+++RemoveFromCartCommand.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\commands\removefromcartcommand.cs
+++ProductsRepository.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\repositories\productsrepository.cs
+++ShoppingCartRepository.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\repositories\shoppingcartrepository.cs
+++Resources.Designer.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\properties\resources.designer.cs
+++Resources.resx
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\properties\resources.resx
+++Settings.Designer.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\properties\settings.designer.cs
+++Settings.settings
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\properties\settings.settings
+++ProductViewModel.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\viewmodels\productviewmodel.cs
+++RelayCommand.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\viewmodels\relaycommand.cs
+++ShoppingCartViewModel.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\viewmodels\shoppingcartviewmodel.cs
+++ViewModelBase.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\viewmodels\viewmodelbase.cs
+++App.xaml.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\app.xaml.cs
+++MainWindow.xaml.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\mainwindow.xaml.cs
+++netcoreapp2.2
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart\obj\debug\netcoreapp2.2\
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart\obj\release\netcoreapp2.2\
+++netstandard2.0
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\obj\debug\netstandard2.0\
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\obj\release\netstandard2.0\
+++.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\obj\debug\.netframework,version=v4.7.2.assemblyattributes.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\obj\release\.netframework,version=v4.7.2.assemblyattributes.cs
+++App.g.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\obj\debug\app.g.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\obj\release\app.g.cs
+++MainWindow.g.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\obj\debug\mainwindow.g.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\obj\release\mainwindow.g.cs
+++ShoppingCart.Windows.csproj.AssemblyReference.cache
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\obj\debug\shoppingcart.windows.csproj.assemblyreference.cache
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\obj\release\shoppingcart.windows.csproj.assemblyreference.cache
+++ShoppingCart.Windows_MarkupCompile.cache
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\obj\debug\shoppingcart.windows_markupcompile.cache
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\obj\release\shoppingcart.windows_markupcompile.cache
+++ShoppingCart.Windows_MarkupCompile.lref
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\obj\debug\shoppingcart.windows_markupcompile.lref
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.windows\obj\release\shoppingcart.windows_markupcompile.lref
+++.NETCoreApp,Version=v2.2.AssemblyAttributes.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart\obj\debug\netcoreapp2.2\.netcoreapp,version=v2.2.assemblyattributes.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart\obj\release\netcoreapp2.2\.netcoreapp,version=v2.2.assemblyattributes.cs
+++ShoppingCart.AssemblyInfo.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart\obj\debug\netcoreapp2.2\shoppingcart.assemblyinfo.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart\obj\release\netcoreapp2.2\shoppingcart.assemblyinfo.cs
+++ShoppingCart.AssemblyInfoInputs.cache
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart\obj\debug\netcoreapp2.2\shoppingcart.assemblyinfoinputs.cache
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart\obj\release\netcoreapp2.2\shoppingcart.assemblyinfoinputs.cache
+++ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart\obj\debug\netcoreapp2.2\shoppingcart.generatedmsbuildeditorconfig.editorconfig
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart\obj\release\netcoreapp2.2\shoppingcart.generatedmsbuildeditorconfig.editorconfig
+++.NETStandard,Version=v2.0.AssemblyAttributes.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\obj\debug\netstandard2.0\.netstandard,version=v2.0.assemblyattributes.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\obj\release\netstandard2.0\.netstandard,version=v2.0.assemblyattributes.cs
+++ShoppingCart.Business.AssemblyInfo.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\obj\debug\netstandard2.0\shoppingcart.business.assemblyinfo.cs
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\obj\release\netstandard2.0\shoppingcart.business.assemblyinfo.cs
+++ShoppingCart.Business.AssemblyInfoInputs.cache
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\obj\debug\netstandard2.0\shoppingcart.business.assemblyinfoinputs.cache
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\obj\release\netstandard2.0\shoppingcart.business.assemblyinfoinputs.cache
+++ShoppingCart.Business.GeneratedMSBuildEditorConfig.editorconfig
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\obj\debug\netstandard2.0\shoppingcart.business.generatedmsbuildeditorconfig.editorconfig
+i:{e7105765-62a3-495a-9b0b-b9406177fca8}:c:\sumit\git\design-patterns\designpatterns.command\tutorial\demos\shoppingcart.business\obj\release\netstandard2.0\shoppingcart.business.generatedmsbuildeditorconfig.editorconfig
+++DesignPatterns.Strategy
+i:{00000000-0000-0000-0000-000000000000}:DesignPatterns.Strategy
+++Business
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\business\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\business\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\business\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\business\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\business\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\business\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\business\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\business\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\
+++net48
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:>382835
+++net6.0
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:>382828
+++Strategies
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\business\strategies\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\business\strategies\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\business\strategies\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\business\strategies\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\business\strategies\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\business\strategies\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\strategies\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\business\strategies\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\strategies\
+++strategy-pattern-slides.pdf
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\strategy-pattern-slides.pdf
+++Assemblies
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:assemblies
+++Order.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\business\models\order.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\business\models\order.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\business\models\order.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\business\models\order.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\business\models\order.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\business\models\order.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\business\models\order.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\models\order.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\business\models\order.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\models\order.cs
+++SalesTax
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\business\strategies\salestax\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\business\strategies\salestax\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\business\strategies\salestax\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\business\strategies\salestax\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\business\strategies\salestax\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\business\strategies\salestax\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\strategies\salestax\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\business\strategies\salestax\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\strategies\salestax\
+++Demo 1 - Strategy Pattern First Look
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\
+++Demo 2 - An alternative approach
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\
+++Demo 3 - Creating an invoice
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\
+++Demo 4 - Using different shipping providers
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\
+++Demo 5 - Array.Sort
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\
+++System.Drawing
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.8\system.drawing.dll
+++System.IO.Compression.FileSystem
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.8\system.io.compression.filesystem.dll
+++System.Numerics
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.8\system.numerics.dll
+++System.Runtime.Serialization
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.8\system.runtime.serialization.dll
+++ISalesTaxStrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\business\strategies\salestax\isalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\business\strategies\salestax\isalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\business\strategies\salestax\isalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\business\strategies\salestax\isalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\business\strategies\salestax\isalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\business\strategies\salestax\isalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\strategies\salestax\isalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\business\strategies\salestax\isalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\strategies\salestax\isalestaxstrategy.cs
+++SwedenSalesTaxStrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\business\strategies\salestax\swedensalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\business\strategies\salestax\swedensalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\business\strategies\salestax\swedensalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\business\strategies\salestax\swedensalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\business\strategies\salestax\swedensalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\business\strategies\salestax\swedensalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\strategies\salestax\swedensalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\business\strategies\salestax\swedensalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\strategies\salestax\swedensalestaxstrategy.cs
+++USASalesTaxStrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\business\strategies\salestax\usasalestaxstrategy.cs
+++Completed
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\
+++Start_Here
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\
+++Strategy Pattern First Look.csproj
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\strategy pattern first look.csproj
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\strategy pattern first look.csproj
+++Strategy Pattern First Look.sln
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\strategy pattern first look.sln
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\strategy pattern first look.sln
+++Strategy Pattern An alternative approach.csproj
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\strategy pattern an alternative approach.csproj
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\strategy pattern an alternative approach.csproj
+++Strategy Pattern An alternative approach.sln
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\strategy pattern an alternative approach.sln
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\strategy pattern an alternative approach.sln
+++Strategy Pattern Creating an invoice.csproj
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\strategy pattern creating an invoice.csproj
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\strategy pattern creating an invoice.csproj
+++Strategy Pattern Creating an invoice.sln
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\strategy pattern creating an invoice.sln
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\strategy pattern creating an invoice.sln
+++Strategy Pattern Using different shipping providers.csproj
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\strategy pattern using different shipping providers.csproj
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\strategy pattern using different shipping providers.csproj
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\strategy pattern using different shipping providers.csproj
+++Strategy Pattern Using different shipping providers.sln
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\strategy pattern using different shipping providers.sln
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\strategy pattern using different shipping providers.sln
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\strategy pattern using different shipping providers.sln
+++netcoreapp3.0
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\obj\debug\netcoreapp3.0\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\obj\release\netcoreapp3.0\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\obj\debug\netcoreapp3.0\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\obj\release\netcoreapp3.0\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\obj\debug\netcoreapp3.0\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\obj\release\netcoreapp3.0\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\obj\debug\netcoreapp3.0\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\obj\release\netcoreapp3.0\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\obj\debug\netcoreapp3.0\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\obj\release\netcoreapp3.0\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\obj\debug\netcoreapp3.0\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\obj\release\netcoreapp3.0\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\obj\debug\netcoreapp3.0\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\obj\release\netcoreapp3.0\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\obj\debug\netcoreapp3.0\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\obj\release\netcoreapp3.0\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\obj\debug\netcoreapp3.0\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\obj\release\netcoreapp3.0\
+++Invoice
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\business\strategies\invoice\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\strategies\invoice\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\business\strategies\invoice\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\strategies\invoice\
+++Shipping
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\strategies\shipping\
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\strategies\shipping\
+++USAStateSalesTaxStrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\business\strategies\salestax\usastatesalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\business\strategies\salestax\usastatesalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\business\strategies\salestax\usastatesalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\business\strategies\salestax\usastatesalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\business\strategies\salestax\usastatesalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\strategies\salestax\usastatesalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\business\strategies\salestax\usastatesalestaxstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\strategies\salestax\usastatesalestaxstrategy.cs
+++.NETCoreApp,Version=v3.0.AssemblyAttributes.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\obj\debug\netcoreapp3.0\.netcoreapp,version=v3.0.assemblyattributes.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\obj\release\netcoreapp3.0\.netcoreapp,version=v3.0.assemblyattributes.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\obj\debug\netcoreapp3.0\.netcoreapp,version=v3.0.assemblyattributes.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\obj\release\netcoreapp3.0\.netcoreapp,version=v3.0.assemblyattributes.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\obj\debug\netcoreapp3.0\.netcoreapp,version=v3.0.assemblyattributes.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\obj\release\netcoreapp3.0\.netcoreapp,version=v3.0.assemblyattributes.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\obj\debug\netcoreapp3.0\.netcoreapp,version=v3.0.assemblyattributes.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\obj\release\netcoreapp3.0\.netcoreapp,version=v3.0.assemblyattributes.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\obj\debug\netcoreapp3.0\.netcoreapp,version=v3.0.assemblyattributes.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\obj\release\netcoreapp3.0\.netcoreapp,version=v3.0.assemblyattributes.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\obj\debug\netcoreapp3.0\.netcoreapp,version=v3.0.assemblyattributes.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\obj\release\netcoreapp3.0\.netcoreapp,version=v3.0.assemblyattributes.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\obj\debug\netcoreapp3.0\.netcoreapp,version=v3.0.assemblyattributes.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\obj\release\netcoreapp3.0\.netcoreapp,version=v3.0.assemblyattributes.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\obj\debug\netcoreapp3.0\.netcoreapp,version=v3.0.assemblyattributes.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\obj\release\netcoreapp3.0\.netcoreapp,version=v3.0.assemblyattributes.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\obj\debug\netcoreapp3.0\.netcoreapp,version=v3.0.assemblyattributes.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\obj\release\netcoreapp3.0\.netcoreapp,version=v3.0.assemblyattributes.cs
+++Strategy Pattern First Look.AssemblyInfo.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\obj\debug\netcoreapp3.0\strategy pattern first look.assemblyinfo.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\obj\release\netcoreapp3.0\strategy pattern first look.assemblyinfo.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\obj\debug\netcoreapp3.0\strategy pattern first look.assemblyinfo.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\obj\release\netcoreapp3.0\strategy pattern first look.assemblyinfo.cs
+++Strategy Pattern First Look.AssemblyInfoInputs.cache
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\obj\debug\netcoreapp3.0\strategy pattern first look.assemblyinfoinputs.cache
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\obj\release\netcoreapp3.0\strategy pattern first look.assemblyinfoinputs.cache
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\obj\debug\netcoreapp3.0\strategy pattern first look.assemblyinfoinputs.cache
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\obj\release\netcoreapp3.0\strategy pattern first look.assemblyinfoinputs.cache
+++Strategy Pattern First Look.GeneratedMSBuildEditorConfig.editorconfig
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\obj\debug\netcoreapp3.0\strategy pattern first look.generatedmsbuildeditorconfig.editorconfig
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\completed\obj\release\netcoreapp3.0\strategy pattern first look.generatedmsbuildeditorconfig.editorconfig
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\obj\debug\netcoreapp3.0\strategy pattern first look.generatedmsbuildeditorconfig.editorconfig
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 1 - strategy pattern first look\start_here\obj\release\netcoreapp3.0\strategy pattern first look.generatedmsbuildeditorconfig.editorconfig
+++Strategy Pattern An alternative approach.AssemblyInfo.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\obj\debug\netcoreapp3.0\strategy pattern an alternative approach.assemblyinfo.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\obj\release\netcoreapp3.0\strategy pattern an alternative approach.assemblyinfo.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\obj\debug\netcoreapp3.0\strategy pattern an alternative approach.assemblyinfo.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\obj\release\netcoreapp3.0\strategy pattern an alternative approach.assemblyinfo.cs
+++Strategy Pattern An alternative approach.AssemblyInfoInputs.cache
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\obj\debug\netcoreapp3.0\strategy pattern an alternative approach.assemblyinfoinputs.cache
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\obj\release\netcoreapp3.0\strategy pattern an alternative approach.assemblyinfoinputs.cache
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\obj\debug\netcoreapp3.0\strategy pattern an alternative approach.assemblyinfoinputs.cache
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\obj\release\netcoreapp3.0\strategy pattern an alternative approach.assemblyinfoinputs.cache
+++Strategy Pattern An alternative approach.GeneratedMSBuildEditorConfig.editorconfig
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\obj\debug\netcoreapp3.0\strategy pattern an alternative approach.generatedmsbuildeditorconfig.editorconfig
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\completed\obj\release\netcoreapp3.0\strategy pattern an alternative approach.generatedmsbuildeditorconfig.editorconfig
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\obj\debug\netcoreapp3.0\strategy pattern an alternative approach.generatedmsbuildeditorconfig.editorconfig
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 2 - an alternative approach\start_here\obj\release\netcoreapp3.0\strategy pattern an alternative approach.generatedmsbuildeditorconfig.editorconfig
+++EmailInvoiceStrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\business\strategies\invoice\emailinvoicestrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\strategies\invoice\emailinvoicestrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\business\strategies\invoice\emailinvoicestrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\strategies\invoice\emailinvoicestrategy.cs
+++FileInvoiceStrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\business\strategies\invoice\fileinvoicestrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\strategies\invoice\fileinvoicestrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\business\strategies\invoice\fileinvoicestrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\strategies\invoice\fileinvoicestrategy.cs
+++IInvoiceStrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\business\strategies\invoice\iinvoicestrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\strategies\invoice\iinvoicestrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\business\strategies\invoice\iinvoicestrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\strategies\invoice\iinvoicestrategy.cs
+++InvoiceStrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\business\strategies\invoice\invoicestrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\strategies\invoice\invoicestrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\business\strategies\invoice\invoicestrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\strategies\invoice\invoicestrategy.cs
+++PrintOnDemandInvoiceStrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\business\strategies\invoice\printondemandinvoicestrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\strategies\invoice\printondemandinvoicestrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\business\strategies\invoice\printondemandinvoicestrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\strategies\invoice\printondemandinvoicestrategy.cs
+++Strategy Pattern Creating an invoice.AssemblyInfo.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\obj\debug\netcoreapp3.0\strategy pattern creating an invoice.assemblyinfo.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\obj\release\netcoreapp3.0\strategy pattern creating an invoice.assemblyinfo.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\obj\debug\netcoreapp3.0\strategy pattern creating an invoice.assemblyinfo.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\obj\release\netcoreapp3.0\strategy pattern creating an invoice.assemblyinfo.cs
+++Strategy Pattern Creating an invoice.AssemblyInfoInputs.cache
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\obj\debug\netcoreapp3.0\strategy pattern creating an invoice.assemblyinfoinputs.cache
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\obj\release\netcoreapp3.0\strategy pattern creating an invoice.assemblyinfoinputs.cache
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\obj\debug\netcoreapp3.0\strategy pattern creating an invoice.assemblyinfoinputs.cache
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\obj\release\netcoreapp3.0\strategy pattern creating an invoice.assemblyinfoinputs.cache
+++Strategy Pattern Creating an invoice.GeneratedMSBuildEditorConfig.editorconfig
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\obj\debug\netcoreapp3.0\strategy pattern creating an invoice.generatedmsbuildeditorconfig.editorconfig
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\completed\obj\release\netcoreapp3.0\strategy pattern creating an invoice.generatedmsbuildeditorconfig.editorconfig
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\obj\debug\netcoreapp3.0\strategy pattern creating an invoice.generatedmsbuildeditorconfig.editorconfig
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 3 - creating an invoice\start_here\obj\release\netcoreapp3.0\strategy pattern creating an invoice.generatedmsbuildeditorconfig.editorconfig
+++DhlShippingStrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\strategies\shipping\dhlshippingstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\strategies\shipping\dhlshippingstrategy.cs
+++FedexShippingStrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\strategies\shipping\fedexshippingstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\strategies\shipping\fedexshippingstrategy.cs
+++IShippingStrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\strategies\shipping\ishippingstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\strategies\shipping\ishippingstrategy.cs
+++SwedishPostalServiceShippingStrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\strategies\shipping\swedishpostalserviceshippingstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\strategies\shipping\swedishpostalserviceshippingstrategy.cs
+++UnitedStatesPostalServiceShippingStrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\strategies\shipping\unitedstatespostalserviceshippingstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\strategies\shipping\unitedstatespostalserviceshippingstrategy.cs
+++UpsShippingStrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\business\strategies\shipping\upsshippingstrategy.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\business\strategies\shipping\upsshippingstrategy.cs
+++Strategy Pattern Using different shipping providers.AssemblyInfo.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\obj\debug\netcoreapp3.0\strategy pattern using different shipping providers.assemblyinfo.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\obj\release\netcoreapp3.0\strategy pattern using different shipping providers.assemblyinfo.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\obj\debug\netcoreapp3.0\strategy pattern using different shipping providers.assemblyinfo.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\obj\release\netcoreapp3.0\strategy pattern using different shipping providers.assemblyinfo.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\obj\debug\netcoreapp3.0\strategy pattern using different shipping providers.assemblyinfo.cs
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\obj\release\netcoreapp3.0\strategy pattern using different shipping providers.assemblyinfo.cs
+++Strategy Pattern Using different shipping providers.AssemblyInfoInputs.cache
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\obj\debug\netcoreapp3.0\strategy pattern using different shipping providers.assemblyinfoinputs.cache
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\obj\release\netcoreapp3.0\strategy pattern using different shipping providers.assemblyinfoinputs.cache
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\obj\debug\netcoreapp3.0\strategy pattern using different shipping providers.assemblyinfoinputs.cache
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\obj\release\netcoreapp3.0\strategy pattern using different shipping providers.assemblyinfoinputs.cache
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\obj\debug\netcoreapp3.0\strategy pattern using different shipping providers.assemblyinfoinputs.cache
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\obj\release\netcoreapp3.0\strategy pattern using different shipping providers.assemblyinfoinputs.cache
+++Strategy Pattern Using different shipping providers.GeneratedMSBuildEditorConfig.editorconfig
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\obj\debug\netcoreapp3.0\strategy pattern using different shipping providers.generatedmsbuildeditorconfig.editorconfig
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\completed\obj\release\netcoreapp3.0\strategy pattern using different shipping providers.generatedmsbuildeditorconfig.editorconfig
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\obj\debug\netcoreapp3.0\strategy pattern using different shipping providers.generatedmsbuildeditorconfig.editorconfig
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 4 - using different shipping providers\start_here\obj\release\netcoreapp3.0\strategy pattern using different shipping providers.generatedmsbuildeditorconfig.editorconfig
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\obj\debug\netcoreapp3.0\strategy pattern using different shipping providers.generatedmsbuildeditorconfig.editorconfig
+i:{8cb418b0-bb08-4b7a-b768-c29fcf1e959b}:c:\sumit\git\design-patterns\strategy\tutorial\demos\demo 5 - array.sort\completed\obj\release\netcoreapp3.0\strategy pattern using different shipping providers.generatedmsbuildeditorconfig.editorconfig

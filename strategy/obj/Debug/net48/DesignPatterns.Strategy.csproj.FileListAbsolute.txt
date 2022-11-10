@@ -1,0 +1,6 @@
+C:\Sumit\Git\design-patterns\strategy\obj\Debug\net48\DesignPatterns.Strategy.csproj.AssemblyReference.cache
+C:\Sumit\Git\design-patterns\strategy\obj\Debug\net48\DesignPatterns.Strategy.csproj.SuggestedBindingRedirects.cache
+C:\Sumit\Git\design-patterns\strategy\obj\Debug\net48\DesignPatterns.Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\strategy\obj\Debug\net48\DesignPatterns.Strategy.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\strategy\obj\Debug\net48\DesignPatterns.Strategy.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\strategy\obj\Debug\net48\DesignPatterns.Strategy.csproj.CoreCompileInputs.cache

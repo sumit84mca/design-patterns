@@ -1,10 +1,14 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    ".NETFramework,Version=v4.8": {},
+    ".NETFramework,Version=v4.8/win7-x86": {},
+    "net6.0": {},
+    "net6.0/win7-x86": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [],
     "net6.0": []
   },
   "packageFolders": {
@@ -19,21 +23,26 @@
       "packagesPath": "C:\\Users\\703201313\\.nuget\\packages\\",
       "outputPath": "C:\\Sumit\\Git\\design-patterns\\strategy\\obj\\",
       "projectStyle": "PackageReference",
+      "crossTargeting": true,
       "configFilePaths": [
         "C:\\Users\\703201313\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
+        "net48",
         "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://repo.corasequence.digital/repository/CoraSeQuencePowerShell/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "projectReferences": {}
+        },
+        "net48": {
+          "targetAlias": "net48",
           "projectReferences": {}
         }
       },
@@ -61,7 +70,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.106\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.110\\RuntimeIdentifierGraph.json"
+      },
+      "net48": {
+        "targetAlias": "net48",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.110\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
       }
     }
   }

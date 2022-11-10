@@ -169,7 +169,6 @@ C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\DesignPatterns.DesignPatt
 C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\DesignPatterns.DesignPatterns.Strategy.dll
 C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\ref\DesignPatterns.DesignPatterns.Strategy.dll
 C:\Sumit\Git\design-patterns\strategy\bin\Debug\net6.0\DesignPatterns.DesignPatterns.Strategy.pdb
-C:\Sumit\Git\design-patterns\strategy\obj\Debug\net6.0\DesignPatterns.Strategy.csproj.AssemblyReference.cache
 C:\Sumit\Git\design-patterns\strategy\obj\Debug\net6.0\DesignPatterns.Strategy.GeneratedMSBuildEditorConfig.editorconfig
 C:\Sumit\Git\design-patterns\strategy\obj\Debug\net6.0\DesignPatterns.Strategy.AssemblyInfoInputs.cache
 C:\Sumit\Git\design-patterns\strategy\obj\Debug\net6.0\DesignPatterns.Strategy.AssemblyInfo.cs

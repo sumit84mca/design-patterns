@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DesignPatterns.HttpClientIssue": {
+      "commandName": "Project",
+      "commandLineArgs": "https://client1.insightbro.com/b/api/v1/clicked?campaignid=10&publisherid=15 \"United States of America\" android"
+    }
+  }
+}

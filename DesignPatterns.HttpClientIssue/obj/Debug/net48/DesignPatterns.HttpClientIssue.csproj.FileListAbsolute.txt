@@ -1,0 +1,6 @@
+C:\Sumit\Git\design-patterns\DesignPatterns.HttpClientIssue\obj\Debug\net48\DesignPatterns.HttpClientIssue.csproj.AssemblyReference.cache
+C:\Sumit\Git\design-patterns\DesignPatterns.HttpClientIssue\obj\Debug\net48\DesignPatterns.HttpClientIssue.csproj.SuggestedBindingRedirects.cache
+C:\Sumit\Git\design-patterns\DesignPatterns.HttpClientIssue\obj\Debug\net48\DesignPatterns.HttpClientIssue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\DesignPatterns.HttpClientIssue\obj\Debug\net48\DesignPatterns.HttpClientIssue.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\DesignPatterns.HttpClientIssue\obj\Debug\net48\DesignPatterns.HttpClientIssue.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\DesignPatterns.HttpClientIssue\obj\Debug\net48\DesignPatterns.HttpClientIssue.csproj.CoreCompileInputs.cache

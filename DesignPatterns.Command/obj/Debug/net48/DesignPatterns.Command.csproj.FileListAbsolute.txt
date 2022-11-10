@@ -1,0 +1,8 @@
+C:\Sumit\Git\design-patterns\DesignPatterns.Command\obj\Debug\net48\DesignPatterns.Command.csproj.AssemblyReference.cache
+C:\Sumit\Git\design-patterns\DesignPatterns.Command\obj\Debug\net48\DesignPatterns.Command.csproj.SuggestedBindingRedirects.cache
+C:\Sumit\Git\design-patterns\DesignPatterns.Command\obj\Debug\net48\DesignPatterns.Command.Tutorial.demos.ShoppingCart.Windows.Properties.Resources.resources
+C:\Sumit\Git\design-patterns\DesignPatterns.Command\obj\Debug\net48\DesignPatterns.Command.csproj.GenerateResource.cache
+C:\Sumit\Git\design-patterns\DesignPatterns.Command\obj\Debug\net48\DesignPatterns.Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sumit\Git\design-patterns\DesignPatterns.Command\obj\Debug\net48\DesignPatterns.Command.AssemblyInfoInputs.cache
+C:\Sumit\Git\design-patterns\DesignPatterns.Command\obj\Debug\net48\DesignPatterns.Command.AssemblyInfo.cs
+C:\Sumit\Git\design-patterns\DesignPatterns.Command\obj\Debug\net48\DesignPatterns.Command.csproj.CoreCompileInputs.cache
