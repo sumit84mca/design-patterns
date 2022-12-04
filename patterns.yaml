@@ -20,9 +20,9 @@
 - name: Command
   intent: |
     The Command pattern is a behavioral design pattern that we can use to turn a request into an object which contains all the information about the request
-    This transformation lets you pass requests as a method arguments, delay or queue a request’s execution, and support undoable operations
+    This transformation lets you pass requests as a method arguments, delay or queue a requestï¿½s execution, and support undoable operations
   description: |
-     The Command design pattern is quite popular in C#, especially when we want to delay or queue a request’s execution or when we want to keep track of our operations. Furthermore, this possibility to keep track of our operations gives us the opportunity to undo them as well.
+     The Command design pattern is quite popular in C#, especially when we want to delay or queue a requestï¿½s execution or when we want to keep track of our operations. Furthermore, this possibility to keep track of our operations gives us the opportunity to undo them as well.
      There are four terms in Command Design Pattern Client, Invoker, Receiver and Command. 
      A command object knows about the receiver and invokes a method of reciver. 
      An invoker knows how to execute a command and optionally does bookkeeping of commands executed.
@@ -41,9 +41,9 @@
 
 - name: Bridge
   intent: |
-    Bridge is a structural design pattern that lets you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
+    Bridge is a structural design pattern that lets you split a large class or a set of closely related classes into two separate hierarchiesï¿½abstraction and implementationï¿½which can be developed independently of each other.
   description: |
-    When a large class is changing very often then split it into more than one class and encapsulate related members together. The create/pass object of one in another to bridge the gap which is created by slitting the classes. 
+    When a large class is changing very often then split it into more than one class and encapsulate related members together. Then create/pass object of one in another to bridge the gap which is created by splitting the classes. 
     The definition is a bit dirrerent but actual implementation may look similar to the Strategy Pattern. 
   example: |
     Think about a Window Application which can run on many Operating systems. You can code everything one class and use if-else to execute os native function.

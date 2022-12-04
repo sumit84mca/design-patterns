@@ -114,9 +114,6 @@ DI Example:<br>
 Default IoC provided by the .net Core. Here all classes get the required object in its construtor fom outside by framework/IoC.
 </details>
 
-
-38)what is core middleware work?
-39)Liskov Substitution Principle violation example c#?
 40)Static classs and static variable when and where store in memory allocation?
 41)SQl Server-https://solutioncenter.apexsql.com/recover-sql-server-data-from-delete-truncate-drop/
 

@@ -13,7 +13,8 @@ namespace DesignPatterns.Command.Command
     }
 
     /// <summary>
-    /// This object knows everything about the Product and price which will be increase. It also knows about the method which will change the product price
+    /// This object knows everything about the Product and price which will be increased.
+    /// It also knows about the method which will change the product price
     /// </summary>
     internal class IncreasePriceCommand : ICommand
     {
