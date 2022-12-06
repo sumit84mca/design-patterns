@@ -1,6 +1,45 @@
 # C# Interview Questions
 
 <details>
+<summary>Generic collection vs non-generic collections</summary>
+
+## Array
+```csharp
+string[] names = new string[4];
+```
+You need to allocate the array to be the right size to start with.
+    Problem - suppose you are reading from a file, you'd either need to find out how many names there are before you started, or you'd need to write more complicated code.
+
+## ArrayList
+```csharp
+ArrayList names = new ArrayList();
+
+foreach(string name in names)
+{
+    Console.WriteLine(name); //What happens if the ArrayList contains a nonstring?
+}
+```
+There's nothing to stop you from adding a nonstring to the collection. The foreach loop above hides an implicit cast, from object to string, because of the type of the name variable. That cast can fail in the normal way with an InvalidCastException.
+
+## StringCollection
+```csharp
+StringCollection names = new StringCollection();
+```
+That's great if you always need only strings. But if you need a collection of some other type, you have to either hope that there's already a suitable collection type in the framework or write one yourself.
+
+## Generic collection List<T>
+```csharp
+List<string> names = new List<string>();
+```
+List<string> can be used to replace StringCollection everywhere.
+Problems that it'll solve
+1. No need to know the size of the collection beforehand, unlike with Arrays.
+2. The exposed API uses T everywhere it needs to refer to the element type, so you know that a List<string> will only contain string references. You'll get compile-time error if you try to add anything else, unlike with ArrayList.
+3. Use it with any element type without worrying about generating code and managing the result, unlike with StringCollection and similar types.
+
+</details>
+
+<details>
 <summary>Anonymous Method in c#?</summary>
 As the name suggests, an anonymous method is a method without a name. Anonymous methods in C# can be defined using the delegate keyword and can be assigned to a variable of delegate type.
 
@@ -15,6 +54,61 @@ static void Main(string[] args)
     print(100);
 }
 ```
+</details>
+
+<details>
+<summary>Type parameters and type arguments</summary>
+
+```csharp
+public class List<T> //type parameter
+{
+    //
+}
+//
+List<string> list = new List<string>(); //type arguments
+```
+</details>
+
+<details>
+<summary>Arity of Generic Types and Methods</summary>
+The generic arity of a declaration is the number of type parameters it has.
+A nongeneric declaration can be think of as the one with generic arity 0.
+
+```csharp
+public void Method(){} //generic arity 0
+public void Method<T>(){} //generic arity 1
+public void Method<T1, T2>(){} //generic arity 2
+
+//Although the generic arity keeps declarations separate, type parameter names don't.
+public void Method<TFirst>(){}
+public void Method<TSecond>(){} //compile-time error; can't overload solely by type parameter name
+public void Method<T, T>(){} //compile-time error; duplicate type parameter T
+```
+</details>
+
+<details>
+<summary>What can be generic?</summary>
+Can
+1. Class
+2. Struct
+3. Interface
+4. Delegate
+5. Methods
+6. Nested types
+
+Can't
+1. Enum
+2. Fields
+3. Properties
+4. Indexers
+5. Constructors
+6. Events
+7. Finalizers
+</details>
+
+<details>
+<summary>Type constraints</summary>
+
 </details>
 
 <details>
@@ -47,7 +141,7 @@ dynamic is object whose actual type is not checked at compile time. Hence the in
 <summary>difference between webclient and httpclient in c#?</summary>
 
 ### HttpWebRequest 
-HttpWebRequest gives you control over every aspect of the request/response object, like timeouts, cookies, headers, protocols. Another great thing is that HttpWebRequest class does not block the user interface thread. For instance, while you’re downloading a big file from a sluggish API server, your application’s UI will remain responsive.
+HttpWebRequest gives you control over every aspect of the request/response object, like timeouts, cookies, headers, protocols. Another great thing is that HttpWebRequest class does not block the user interface thread. For instance, while youï¿½re downloading a big file from a sluggish API server, your applicationï¿½s UI will remain responsive.
 ```csharp
 HttpWebRequest http = (HttpWebRequest)WebRequest.Create("http://example.com");
 WebResponse response = http.GetResponse();
@@ -58,7 +152,7 @@ string content = sr.ReadToEnd();
 ```
 
 ### WebClient
-WebClient is a higher-level abstraction built on top of HttpWebRequest to simplify the most common tasks. it requires less code, is easier to use, and you’re less likely to make a mistake when using it.
+WebClient is a higher-level abstraction built on top of HttpWebRequest to simplify the most common tasks. it requires less code, is easier to use, and youï¿½re less likely to make a mistake when using it.
 
 ```csharp
 var client = new WebClient();
@@ -88,7 +182,7 @@ The null-coalescing assignment operator ??= assigns the value of its right-hand 
 
 <details>
 <summary>Difference between singlton and static?</summary>
-The most important point that you need to keep in mind is that Static is a language feature whereas Singleton is a design pattern. So both belong to two different areas. With this keep in mind let’s discuss the differences between Singleton vs static class in C#.
+The most important point that you need to keep in mind is that Static is a language feature whereas Singleton is a design pattern. So both belong to two different areas. With this keep in mind letï¿½s discuss the differences between Singleton vs static class in C#.
 
 1. We cannot create an instance of a static class in C#. But we can create a single instance of a singleton class and then can reuse that singleton instance.
 2. When the compiler compiles the static class then internally it treats the static class as an abstract and sealed class. This is the reason why neither we create an instance nor extend a static class in C#.
