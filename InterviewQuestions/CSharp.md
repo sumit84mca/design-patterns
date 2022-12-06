@@ -57,6 +57,61 @@ static void Main(string[] args)
 </details>
 
 <details>
+<summary>Type parameters and type arguments</summary>
+
+```csharp
+public class List<T> //type parameter
+{
+    //
+}
+//
+List<string> list = new List<string>(); //type arguments
+```
+</details>
+
+<details>
+<summary>Arity of Generic Types and Methods</summary>
+The generic arity of a declaration is the number of type parameters it has.
+A nongeneric declaration can be think of as the one with generic arity 0.
+
+```csharp
+public void Method(){} //generic arity 0
+public void Method<T>(){} //generic arity 1
+public void Method<T1, T2>(){} //generic arity 2
+
+//Although the generic arity keeps declarations separate, type parameter names don't.
+public void Method<TFirst>(){}
+public void Method<TSecond>(){} //compile-time error; can't overload solely by type parameter name
+public void Method<T, T>(){} //compile-time error; duplicate type parameter T
+```
+</details>
+
+<details>
+<summary>What can be generic?</summary>
+Can
+1. Class
+2. Struct
+3. Interface
+4. Delegate
+5. Methods
+6. Nested types
+
+Can't
+1. Enum
+2. Fields
+3. Properties
+4. Indexers
+5. Constructors
+6. Events
+7. Finalizers
+</details>
+
+<details>
+<summary>Type constraints</summary>
+
+</details>
+
+<details>
 <summary>Difference between hashtable and dictionary?</summary>
 
 ## Dictionary
