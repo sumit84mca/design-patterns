@@ -108,6 +108,7 @@ Can't
 
 <details>
 <summary>Type constraints</summary>
+
 When a type parameter is declared by a generic type or method, it can also specify type constraints that restrict which types can be provided as type arguments.
 
 ```csharp
@@ -127,6 +128,7 @@ Following type constraints are available
 - where T : Control
 - where T : IFormattable
 - where T1 : T2
+
 </details>
 
 <details>
