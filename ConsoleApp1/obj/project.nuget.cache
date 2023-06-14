@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "phXrnglLEay8YNttt8PitoiUw7CCeB5xZ3PvN3uD3A9jTm5gVJev26tGr6IUIQ/JYD3bRx45Q1EQFxZwn0In4w==",
+  "success": true,
+  "projectFilePath": "C:\\Sumit\\Git\\design-patterns\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\703201313\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\703201313\\.nuget\\packages\\rad.dlls.nuget\\1.0.0\\rad.dlls.nuget.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

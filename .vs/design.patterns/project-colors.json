@@ -45,7 +45,17 @@
       "ProjectGuid": "9d1ffc75-6b38-44e5-bb1a-a12d47f3dc58",
       "DisplayName": "TestNetClient",
       "ColorIndex": 7
+    },
+    "af09e902-374e-478b-a835-82cf31974c13": {
+      "ProjectGuid": "af09e902-374e-478b-a835-82cf31974c13",
+      "DisplayName": "DesignPatternsSampleCode",
+      "ColorIndex": 8
+    },
+    "e63c3a22-d7fb-49f4-bf3a-aa95359342d8": {
+      "ProjectGuid": "e63c3a22-d7fb-49f4-bf3a-aa95359342d8",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 10
 }

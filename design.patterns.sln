@@ -26,6 +26,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaptureRAWRequest", "Captur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsSampleCode", "DesignPatternsSampleCode\DesignPatternsSampleCode.csproj", "{AF09E902-374E-478B-A835-82CF31974C13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{E63C3A22-D7FB-49F4-BF3A-AA95359342D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -64,6 +66,10 @@ Global
 		{AF09E902-374E-478B-A835-82CF31974C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF09E902-374E-478B-A835-82CF31974C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF09E902-374E-478B-A835-82CF31974C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E63C3A22-D7FB-49F4-BF3A-AA95359342D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E63C3A22-D7FB-49F4-BF3A-AA95359342D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E63C3A22-D7FB-49F4-BF3A-AA95359342D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E63C3A22-D7FB-49F4-BF3A-AA95359342D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
