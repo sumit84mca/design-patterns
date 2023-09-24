@@ -17,7 +17,7 @@ The main method in the program.cs file basically the entry point for the applica
 The Startup class is the entry point to the application, setting up configuration and wiring up services the application will use. 
 Developers configure a request pipeline in the Startup class that is used to handle all requests made to the application.
 The Startup class can optionally accept dependencies in its constructor that are provided through dependency injection.
-Typically, the way an application will be configured is defined within its Startup class’s constructor (see Configuration).
+Typically, the way an application will be configured is defined within its Startup classâ€™s constructor (see Configuration).
 The Startup class must define a Configure method, and may optionally also define a ConfigureServices method, which will be called when the application is started.
 ## The Configure Method
 The configure method must accept **IApplicationBuilder** argument. It can also accept **IHostingEnvironment** and **ILoggerFactory**. 
@@ -67,8 +67,8 @@ Provides a mechanism for creating loggers. Available to the Startup constructor 
 The current set of services configured in the container. Available only to the ConfigureServices method, and used by that method to configure the services available to an application.
 
 Different methods and available services
-**Startup Constructor** - IApplicationEnvironment - IHostingEnvironment - ILoggerFactory
-**ConfigureServices** - IServiceCollection
+**Startup Constructor** - IApplicationEnvironment - IHostingEnvironment - ILoggerFactory \n
+**ConfigureServices** - IServiceCollection \n
 **Configure** - IApplicationBuilder - IApplicationEnvironment - IHostingEnvironment - ILoggerFactory
 </details>
 <details>
