@@ -66,7 +66,7 @@ Provides a mechanism for creating loggers. Available to the Startup constructor 
 ### IServiceCollection
 The current set of services configured in the container. Available only to the ConfigureServices method, and used by that method to configure the services available to an application.
 
-Different methods and available services
+Different methods and available services <br>
 **Startup Constructor** - IApplicationEnvironment - IHostingEnvironment - ILoggerFactory <br>
 **ConfigureServices** - IServiceCollection <br>
 **Configure** - IApplicationBuilder - IApplicationEnvironment - IHostingEnvironment - ILoggerFactory
