@@ -67,8 +67,8 @@ Provides a mechanism for creating loggers. Available to the Startup constructor 
 The current set of services configured in the container. Available only to the ConfigureServices method, and used by that method to configure the services available to an application.
 
 Different methods and available services
-**Startup Constructor** - IApplicationEnvironment - IHostingEnvironment - ILoggerFactory \n
-**ConfigureServices** - IServiceCollection \n
+**Startup Constructor** - IApplicationEnvironment - IHostingEnvironment - ILoggerFactory <br>
+**ConfigureServices** - IServiceCollection 
 **Configure** - IApplicationBuilder - IApplicationEnvironment - IHostingEnvironment - ILoggerFactory
 </details>
 <details>
