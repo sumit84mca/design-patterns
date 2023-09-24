@@ -68,7 +68,7 @@ The current set of services configured in the container. Available only to the C
 
 Different methods and available services
 **Startup Constructor** - IApplicationEnvironment - IHostingEnvironment - ILoggerFactory <br>
-**ConfigureServices** - IServiceCollection 
+**ConfigureServices** - IServiceCollection <br>
 **Configure** - IApplicationBuilder - IApplicationEnvironment - IHostingEnvironment - ILoggerFactory
 </details>
 <details>
