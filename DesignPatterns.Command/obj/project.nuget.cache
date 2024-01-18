@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a7jM20OgyWb/fbZ3o1Kdr+52mgbFru7x6PQ1V0yCDBvqc9nq/1YSWKxGqqZOWTPKKzbxvvc2OPf2NX/q3wlSnA==",
+  "dgSpecHash": "tZ1Ch6cYtFhOt0mzjhuPQ1GWMCxrBDOZzoo3HjLowVWEGS+XgtYOTZtUTnrXX1XVSpjkidNit7yAMdJ7tfEMiQ==",
   "success": true,
-  "projectFilePath": "C:\\Sumit\\Git\\design-patterns\\DesignPatterns.Command\\DesignPatterns.Command.csproj",
+  "projectFilePath": "C:\\sumit\\sumit84mca\\design-patterns\\DesignPatterns.Command\\DesignPatterns.Command.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sumit\\Git\\design-patterns\\DesignPatterns.AzureRestApi\\DesignPatterns.AzureRestApi.csproj",
+      "projectUniqueName": "C:\\sumit\\sumit84mca\\design-patterns\\DesignPatterns.AzureRestApi\\DesignPatterns.AzureRestApi.csproj",
       "projectName": "DesignPatterns.AzureRestApi",
-      "projectPath": "C:\\Sumit\\Git\\design-patterns\\DesignPatterns.AzureRestApi\\DesignPatterns.AzureRestApi.csproj",
+      "projectPath": "C:\\sumit\\sumit84mca\\design-patterns\\DesignPatterns.AzureRestApi\\DesignPatterns.AzureRestApi.csproj",
       "packagesPath": "C:\\Users\\703201313\\.nuget\\packages\\",
-      "outputPath": "C:\\Sumit\\Git\\design-patterns\\DesignPatterns.AzureRestApi\\obj\\",
+      "outputPath": "C:\\sumit\\sumit84mca\\design-patterns\\DesignPatterns.AzureRestApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\703201313\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -111,7 +111,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

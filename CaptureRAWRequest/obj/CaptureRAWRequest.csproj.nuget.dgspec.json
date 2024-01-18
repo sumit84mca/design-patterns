@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sumit\\Git\\design-patterns\\CaptureRAWRequest\\CaptureRAWRequest.csproj": {}
+    "C:\\sumit\\sumit84mca\\design-patterns\\CaptureRAWRequest\\CaptureRAWRequest.csproj": {}
   },
   "projects": {
-    "C:\\Sumit\\Git\\design-patterns\\CaptureRAWRequest\\CaptureRAWRequest.csproj": {
+    "C:\\sumit\\sumit84mca\\design-patterns\\CaptureRAWRequest\\CaptureRAWRequest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sumit\\Git\\design-patterns\\CaptureRAWRequest\\CaptureRAWRequest.csproj",
+        "projectUniqueName": "C:\\sumit\\sumit84mca\\design-patterns\\CaptureRAWRequest\\CaptureRAWRequest.csproj",
         "projectName": "CaptureRAWRequest",
-        "projectPath": "C:\\Sumit\\Git\\design-patterns\\CaptureRAWRequest\\CaptureRAWRequest.csproj",
+        "projectPath": "C:\\sumit\\sumit84mca\\design-patterns\\CaptureRAWRequest\\CaptureRAWRequest.csproj",
         "packagesPath": "C:\\Users\\703201313\\.nuget\\packages\\",
-        "outputPath": "C:\\Sumit\\Git\\design-patterns\\CaptureRAWRequest\\obj\\",
+        "outputPath": "C:\\sumit\\sumit84mca\\design-patterns\\CaptureRAWRequest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\703201313\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

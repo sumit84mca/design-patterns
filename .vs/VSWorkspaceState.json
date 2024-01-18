@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CaptureRAWRequest\\Controllers",
-    "\\CaptureRAWRequest\\Properties",
-    "\\CaptureRAWRequest\\wwwroot",
-    "\\InterviewQuestions"
+    "\\ConsoleApp1",
+    "\\ConstructorCalling",
+    "\\InterviewQuestions",
+    "\\InterviewQuestions\\CodeSamples",
+    "\\InterviewQuestions\\CodeSamples\\DesignPatterns"
   ],
-  "SelectedNode": "\\InterviewQuestions\\Core.md",
+  "SelectedNode": "\\ConstructorCalling\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

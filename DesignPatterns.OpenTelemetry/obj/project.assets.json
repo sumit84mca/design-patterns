@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sumit\\Git\\design-patterns\\DesignPatterns.OpenTelemetry\\DesignPatterns.OpenTelemetry.csproj",
+      "projectUniqueName": "C:\\sumit\\sumit84mca\\design-patterns\\DesignPatterns.OpenTelemetry\\DesignPatterns.OpenTelemetry.csproj",
       "projectName": "DesignPatterns.OpenTelemetry",
-      "projectPath": "C:\\Sumit\\Git\\design-patterns\\DesignPatterns.OpenTelemetry\\DesignPatterns.OpenTelemetry.csproj",
+      "projectPath": "C:\\sumit\\sumit84mca\\design-patterns\\DesignPatterns.OpenTelemetry\\DesignPatterns.OpenTelemetry.csproj",
       "packagesPath": "C:\\Users\\703201313\\.nuget\\packages\\",
-      "outputPath": "C:\\Sumit\\Git\\design-patterns\\DesignPatterns.OpenTelemetry\\obj\\",
+      "outputPath": "C:\\sumit\\sumit84mca\\design-patterns\\DesignPatterns.OpenTelemetry\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\703201313\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -742,7 +742,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -14,17 +14,6 @@
             "related": ".xml"
           }
         }
-      },
-      "Rad.dlls.nuget/1.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net48/PNMsoft.Rad.Web.UI.Skins.v8.dll": {},
-          "lib/net48/PNMsoft.Rad.Web.UI.v8.dll": {}
-        },
-        "runtime": {
-          "lib/net48/PNMsoft.Rad.Web.UI.Skins.v8.dll": {},
-          "lib/net48/PNMsoft.Rad.Web.UI.v8.dll": {}
-        }
       }
     },
     ".NETFramework,Version=v4.8/win": {
@@ -40,16 +29,20 @@
             "related": ".xml"
           }
         }
-      },
-      "Rad.dlls.nuget/1.0.0": {
+      }
+    },
+    ".NETFramework,Version=v4.8/win-arm64": {
+      "Newtonsoft.Json/13.0.2": {
         "type": "package",
         "compile": {
-          "lib/net48/PNMsoft.Rad.Web.UI.Skins.v8.dll": {},
-          "lib/net48/PNMsoft.Rad.Web.UI.v8.dll": {}
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net48/PNMsoft.Rad.Web.UI.Skins.v8.dll": {},
-          "lib/net48/PNMsoft.Rad.Web.UI.v8.dll": {}
+          "lib/net45/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
@@ -66,17 +59,6 @@
             "related": ".xml"
           }
         }
-      },
-      "Rad.dlls.nuget/1.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net48/PNMsoft.Rad.Web.UI.Skins.v8.dll": {},
-          "lib/net48/PNMsoft.Rad.Web.UI.v8.dll": {}
-        },
-        "runtime": {
-          "lib/net48/PNMsoft.Rad.Web.UI.Skins.v8.dll": {},
-          "lib/net48/PNMsoft.Rad.Web.UI.v8.dll": {}
-        }
       }
     },
     ".NETFramework,Version=v4.8/win-x86": {
@@ -91,17 +73,6 @@
           "lib/net45/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
-        }
-      },
-      "Rad.dlls.nuget/1.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net48/PNMsoft.Rad.Web.UI.Skins.v8.dll": {},
-          "lib/net48/PNMsoft.Rad.Web.UI.v8.dll": {}
-        },
-        "runtime": {
-          "lib/net48/PNMsoft.Rad.Web.UI.Skins.v8.dll": {},
-          "lib/net48/PNMsoft.Rad.Web.UI.v8.dll": {}
         }
       }
     }
@@ -136,24 +107,11 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
-    },
-    "Rad.dlls.nuget/1.0.0": {
-      "sha512": "DY8AHMw9HOCIwPn7/ERmxtiY3ypCVGac+1VTySgjaCO6ULbeOVlK/2QD5aCj98CtBgX0DWneCSOyM91tRhITtw==",
-      "type": "package",
-      "path": "rad.dlls.nuget/1.0.0",
-      "files": [
-        ".nupkg.metadata",
-        "lib/net48/PNMsoft.Rad.Web.UI.Skins.v8.dll",
-        "lib/net48/PNMsoft.Rad.Web.UI.v8.dll",
-        "rad.dlls.nuget.1.0.0.nupkg.sha512",
-        "rad.dlls.nuget.nuspec"
-      ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.8": [
-      "Newtonsoft.Json >= 13.0.2",
-      "Rad.dlls.nuget >= 1.0.0"
+      "Newtonsoft.Json >= 13.0.2"
     ]
   },
   "packageFolders": {
@@ -162,11 +120,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sumit\\Git\\design-patterns\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\sumit\\sumit84mca\\design-patterns\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Sumit\\Git\\design-patterns\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\sumit\\sumit84mca\\design-patterns\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\703201313\\.nuget\\packages\\",
-      "outputPath": "C:\\Sumit\\Git\\design-patterns\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\sumit\\sumit84mca\\design-patterns\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -192,16 +150,15 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.2, )"
-          },
-          "Rad.dlls.nuget": {
-            "target": "Package",
-            "version": "[1.0.0, )"
           }
         }
       }
     },
     "runtimes": {
       "win": {
+        "#import": []
+      },
+      "win-arm64": {
         "#import": []
       },
       "win-x64": {

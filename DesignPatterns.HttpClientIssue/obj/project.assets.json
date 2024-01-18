@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sumit\\Git\\design-patterns\\DesignPatterns.HttpClientIssue\\DesignPatterns.HttpClientIssue.csproj",
+      "projectUniqueName": "C:\\sumit\\sumit84mca\\design-patterns\\DesignPatterns.HttpClientIssue\\DesignPatterns.HttpClientIssue.csproj",
       "projectName": "DesignPatterns.HttpClientIssue",
-      "projectPath": "C:\\Sumit\\Git\\design-patterns\\DesignPatterns.HttpClientIssue\\DesignPatterns.HttpClientIssue.csproj",
+      "projectPath": "C:\\sumit\\sumit84mca\\design-patterns\\DesignPatterns.HttpClientIssue\\DesignPatterns.HttpClientIssue.csproj",
       "packagesPath": "C:\\Users\\703201313\\.nuget\\packages\\",
-      "outputPath": "C:\\Sumit\\Git\\design-patterns\\DesignPatterns.HttpClientIssue\\obj\\",
+      "outputPath": "C:\\sumit\\sumit84mca\\design-patterns\\DesignPatterns.HttpClientIssue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\703201313\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

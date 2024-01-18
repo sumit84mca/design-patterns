@@ -17,11 +17,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sumit\\Git\\design-patterns\\strategy\\DesignPatterns.Strategy.csproj",
+      "projectUniqueName": "C:\\sumit\\sumit84mca\\design-patterns\\strategy\\DesignPatterns.Strategy.csproj",
       "projectName": "DesignPatterns.DesignPatterns.Strategy",
-      "projectPath": "C:\\Sumit\\Git\\design-patterns\\strategy\\DesignPatterns.Strategy.csproj",
+      "projectPath": "C:\\sumit\\sumit84mca\\design-patterns\\strategy\\DesignPatterns.Strategy.csproj",
       "packagesPath": "C:\\Users\\703201313\\.nuget\\packages\\",
-      "outputPath": "C:\\Sumit\\Git\\design-patterns\\strategy\\obj\\",
+      "outputPath": "C:\\sumit\\sumit84mca\\design-patterns\\strategy\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
@@ -71,11 +71,11 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       },
       "net48": {
         "targetAlias": "net48",
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

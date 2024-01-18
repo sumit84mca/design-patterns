@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rBqJzbNweoyIs4kJ08Gie+WliKo6xEaGOEpaxQM0AEAU1vkH5JSZkaPubpdVyNRgLso1AHyxE0+EhG9p2M85BQ==",
+  "dgSpecHash": "komEfr7Dx8o8PUlZsW3AnGTsDzZt6uSCAyPNjOsWb98Z7QTS2pvRZG4jqmVQKtpklEEXbHZBLmSbc2/EyimX/Q==",
   "success": true,
-  "projectFilePath": "C:\\Sumit\\Git\\design-patterns\\strategy\\DesignPatterns.Strategy.csproj",
+  "projectFilePath": "C:\\sumit\\sumit84mca\\design-patterns\\strategy\\DesignPatterns.Strategy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
