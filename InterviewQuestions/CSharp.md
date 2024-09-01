@@ -109,6 +109,26 @@ Can't
 <details>
 <summary>Type constraints</summary>
 
+When a type parameter is declared by a generic type or method, it can also specify type constraints that restrict which types can be provided as type arguments.
+
+```csharp
+//problem
+static void PrintItems(List<IFormattable> items){}
+//you couldn't pass a List<decimal> to it, for ex, even though decimal implements IFormattable; a List<decimal> isn't convertible to List<IFormattable>.
+
+//solution
+static void PrintItems<T>(List<T> items) where T : IFormattable {}
+//The way we've constrained T here doesn't just change which values can be passed to the method; it also changes what you can do with a value of type T within the method. The compiler knows that T implements IFormattable, so it allows IFormattable.ToString(string, IFormatProvider) method to be called on any T value.
+```
+Following type constraints are available
+1. Reference type constraint - where T : class (it can be any reference type, including interfaces and delegates.)
+2. Value type constraint - where T : struct (must be a non nullable value type struct, or an enum)
+3. Constructor constraint - where T : new() (type argument must have a public parameterless constructor. This enables use of new T() within the body of the code)
+4. Conversion constraint - where T : SomeType (can be a class, interface, or another type parameter)
+- where T : Control
+- where T : IFormattable
+- where T1 : T2
+
 </details>
 
 <details>
